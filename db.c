@@ -50,10 +50,6 @@ int main(int argc, char* argv[]) {
         print_prompt();
         read_input(input_buffer);
 
-        printf("%s\n", input_buffer->buffer);
-        printf("%zu\n", input_buffer->buffer_length);
-        printf("%ld\n", input_buffer->input_length);
-
         if (strcmp(input_buffer->buffer, ".exit") == 0) {
             close_input_buffer(input_buffer);
             exit(EXIT_SUCCESS);
