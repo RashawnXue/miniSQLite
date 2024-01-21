@@ -1,2 +1,3 @@
-# miniSQLite
-A simple SQLite implementation, referred from https://cstack.github.io/db_tutorial
+# miniSQLite Part 02
+
+Implement SQL complier and Virtual Machine.
