@@ -1,3 +1,3 @@
-# miniSQLite Part 03
+# miniSQLite Part 04
 
-An In-Memory, Append-Only, Single-Table Database
+Our first tests and bugs.
