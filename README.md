@@ -1,3 +1,3 @@
-# miniSQLite Part 02
+# miniSQLite Part 03
 
-Implement SQL complier and Virtual Machine.
+An In-Memory, Append-Only, Single-Table Database
