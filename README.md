@@ -1,3 +1,3 @@
-# miniSQLite Part 04
+# miniSQLite Part 05
 
-Our first tests and bugs.
+Persistence to disk.
